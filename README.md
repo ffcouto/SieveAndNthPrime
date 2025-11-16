@@ -49,9 +49,9 @@ Each index in the boolean vector corresponds to a specific position in these seq
 ### **3. Composite Marking via Multiplicative Patterns**
 The algorithm marks composites using three deterministic patterns:
 
-- (6k−1 × 6m+1)  
-- (6k−1 × 6m−1)  
-- (6k+1 × 6m+1)
+- (6k−1 × 6k+1)  
+- (6k−1 × 6k−1)  
+- (6k+1 × 6k+1)
 
 These patterns eliminate redundant marking operations common in classical sieves.
 
