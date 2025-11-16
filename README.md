@@ -80,10 +80,10 @@ Performance tests were conducted comparing:
 
 ## 📁 Repository Structure
 
-/src → Source code of the algorithm
-/docs → Documentation, graphs, tables, explanations
-/tests → Benchmarks and unit tests
-README.md → This file
+- /src → Source code of the algorithm 
+- /docs → Documentation, graphs, tables, explanations 
+- /tests → Benchmarks and unit tests 
+- README.md → This file 
 
 ---
 
